@@ -9,7 +9,7 @@ Quick Start:
 - docker build --tag <insert tag> .
 - docker run -e DISPLAY=(IP address):0 searchengine:1.0
 
-Walkthrough video:
+Walkthrough video:https://www.youtube.com/watch?v=G_tGchQiwnE&feature=youtu.be
 
 Docker image: zliu3/searchengine:1.0
 

@@ -12,6 +12,7 @@ Quick Start:
 Walkthrough video:
 
 Docker image: zliu3/searchengine:1.0
+
 Docker repo:https://hub.docker.com/repository/docker/zliu3/searchengine
 
 - GUI.java - the main java file to set up GUI on the client side
